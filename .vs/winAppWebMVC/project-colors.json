@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a076dcb0-a1ad-483c-a8dc-483f8f182e5d": {
+      "ProjectGuid": "a076dcb0-a1ad-483c-a8dc-483f8f182e5d",
+      "DisplayName": "winAppWebMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
